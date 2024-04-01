@@ -1,0 +1,33 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.cdc.gov/cancer/lung/basic_info/what-is-lung-cancer.htm")!)) {
+    Text("https://www.cdc.gov/cancer/lung/basic_info/what-is-lung-cancer.htm")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/books/NBK482357/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/books/NBK482357/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864624/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864624/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nyc.gov/site/doh/health/health-topics/lung-cancer.page")!)) {
+    Text("https://www.nyc.gov/site/doh/health/health-topics/lung-cancer.page")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.epa.gov/radon/health-risk-radon")!)) {
+    Text("https://www.epa.gov/radon/health-risk-radon")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://scdhec.gov/health/diseases-conditions/cancer/lung-cancer/lung-cancer-symptoms")!)) {
+    Text("https://scdhec.gov/health/diseases-conditions/cancer/lung-cancer/lung-cancer-symptoms")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.fda.gov/news-events/press-announcements/fda-approves-first-targeted-therapy-lung-cancer-mutation-previously-considered-resistant-drug")!)) {
+    Text("https://www.fda.gov/news-events/press-announcements/fda-approves-first-targeted-therapy-lung-cancer-mutation-previously-considered-resistant-drug")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864624/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864624/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nyc.gov/site/doh/health/health-topics/lung-cancer.page")!)) {
+    Text("https://www.nyc.gov/site/doh/health/health-topics/lung-cancer.page")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.epa.gov/radon/health-risk-radon")!)) {
+    Text("https://www.epa.gov/radon/health-risk-radon")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://scdhec.gov/health/diseases-conditions/cancer/lung-cancer/lung-cancer-symptoms")!)) {
+    Text("https://scdhec.gov/health/diseases-conditions/cancer/lung-cancer/lung-cancer-symptoms")
+}}

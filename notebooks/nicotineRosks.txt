@@ -1,0 +1,30 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4363846/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4363846/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.hopkinsmedicine.org/health/wellness-and-prevention/5-truths-you-need-to-know-about-vaping")!)) {
+    Text("https://www.hopkinsmedicine.org/health/wellness-and-prevention/5-truths-you-need-to-know-about-vaping")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.cdc.gov/tobacco/basic_information/e-cigarettes/Quick-Facts-on-the-Risks-of-E-cigarettes-for-Kids-Teens-and-Young-Adults.html")!)) {
+    Text("https://www.cdc.gov/tobacco/basic_information/e-cigarettes/Quick-Facts-on-the-Risks-of-E-cigarettes-for-Kids-Teens-and-Young-Adults.html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://my.clevelandclinic.org/health/articles/17488-smoking")!)) {
+    Text("https://my.clevelandclinic.org/health/articles/17488-smoking")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/books/NBK294308/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/books/NBK294308/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.verywellhealth.com/what-is-nicotine-5075412")!)) {
+    Text("https://www.verywellhealth.com/what-is-nicotine-5075412")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mayoclinic.org/diseases-conditions/nicotine-dependence/symptoms-causes/syc-20351584")!)) {
+    Text("https://www.mayoclinic.org/diseases-conditions/nicotine-dependence/symptoms-causes/syc-20351584")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://my.clevelandclinic.org/health/articles/17488-smoking")!)) {
+    Text("https://my.clevelandclinic.org/health/articles/17488-smoking")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/books/NBK294308/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/books/NBK294308/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/books/NBK294308/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/books/NBK294308/")
+}}

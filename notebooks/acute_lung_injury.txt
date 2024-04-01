@@ -1,0 +1,36 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188356/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188356/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")!)) {
+    Text("https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")!)) {
+    Text("https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")!)) {
+    Text("https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")!)) {
+    Text("https://www.sciencedirect.com/topics/medicine-and-dentistry/acute-lung-injury")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")!)) {
+    Text("https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")!)) {
+    Text("https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://academic.oup.com/pmj/article/87/1031/612/7031988")!)) {
+    Text("https://academic.oup.com/pmj/article/87/1031/612/7031988")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nejm.org/doi/full/10.1056/NEJMoa050333")!)) {
+    Text("https://www.nejm.org/doi/full/10.1056/NEJMoa050333")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://med.emory.edu/departments/medicine/divisions/pulmonary/research/acute-lung-injury.html")!)) {
+    Text("https://med.emory.edu/departments/medicine/divisions/pulmonary/research/acute-lung-injury.html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://academic.oup.com/pmj/article/87/1031/612/7031988")!)) {
+    Text("https://academic.oup.com/pmj/article/87/1031/612/7031988")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nejm.org/doi/full/10.1056/NEJMoa050333")!)) {
+    Text("https://www.nejm.org/doi/full/10.1056/NEJMoa050333")
+}}

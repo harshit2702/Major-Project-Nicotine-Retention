@@ -1,0 +1,306 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.loc.gov/item/2019770598/")!)) {
+    Text("https://www.loc.gov/item/2019770598/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://niccs.cisa.gov/education-training/catalog/training-camp/python-introduction-programming")!)) {
+    Text("https://niccs.cisa.gov/education-training/catalog/training-camp/python-introduction-programming")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://pubmed.ncbi.nlm.nih.gov/10660911/")!)) {
+    Text("https://pubmed.ncbi.nlm.nih.gov/10660911/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://libguides.library.noaa.gov/python")!)) {
+    Text("https://libguides.library.noaa.gov/python")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://files.eric.ed.gov/fulltext/EJ1310052.pdf")!)) {
+    Text("https://files.eric.ed.gov/fulltext/EJ1310052.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://astg.pages.smce.nasa.gov/website/python")!)) {
+    Text("https://astg.pages.smce.nasa.gov/website/python")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://bioinformatics.ccr.cancer.gov/btep/classes/python-programming-for-scientists--bioinformatics-programming-with-python")!)) {
+    Text("https://bioinformatics.ccr.cancer.gov/btep/classes/python-programming-for-scientists--bioinformatics-programming-with-python")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://bjatta.bja.ojp.gov/media/event/whyd-it-have-be-snakes-python-programming-law-enforcement-part-1")!)) {
+    Text("https://bjatta.bja.ojp.gov/media/event/whyd-it-have-be-snakes-python-programming-law-enforcement-part-1")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://niccs.cisa.gov/education-training/catalog/ecpi-university/introduction-python-programming")!)) {
+    Text("https://niccs.cisa.gov/education-training/catalog/ecpi-university/introduction-python-programming")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://joblink.maine.gov/etp/public/institution_programs/118")!)) {
+    Text("https://joblink.maine.gov/etp/public/institution_programs/118")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.science.gov/topicpages/w/wasserman+python+programming")!)) {
+    Text("https://www.science.gov/topicpages/w/wasserman+python+programming")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://modis.ornl.gov/files/exercises/GeospatialProgramming.pdf")!)) {
+    Text("https://modis.ornl.gov/files/exercises/GeospatialProgramming.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.in.gov/dwd/files/industry-certifications/Certified-Associate-in-Python-Programming-PCAP.pdf")!)) {
+    Text("https://www.in.gov/dwd/files/industry-certifications/Certified-Associate-in-Python-Programming-PCAP.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://eric.ed.gov/?id=EJ1310052")!)) {
+    Text("https://eric.ed.gov/?id=EJ1310052")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://bjatta.bja.ojp.gov/media/event/whyd-it-have-be-snakes-python-programming-law-enforcement-part-3")!)) {
+    Text("https://bjatta.bja.ojp.gov/media/event/whyd-it-have-be-snakes-python-programming-law-enforcement-part-3")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://bioinformatics.ccr.cancer.gov/btep/classes/introduction-to-r-and-python-programming-languages")!)) {
+    Text("https://bioinformatics.ccr.cancer.gov/btep/classes/introduction-to-r-and-python-programming-languages")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://joblink.maine.gov/etp/public/institution_programs/3439")!)) {
+    Text("https://joblink.maine.gov/etp/public/institution_programs/3439")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://mycareer.nj.gov/training/49886")!)) {
+    Text("https://mycareer.nj.gov/training/49886")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.hsrd.research.va.gov/for_researchers/cyber_seminars/archives/video_archive.cfm?SessionID=3583")!)) {
+    Text("https://www.hsrd.research.va.gov/for_researchers/cyber_seminars/archives/video_archive.cfm?SessionID=3583")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8851894/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8851894/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.dpi.nc.gov/students-families/enhanced-opportunities/student-technology-certifications/programming")!)) {
+    Text("https://www.dpi.nc.gov/students-families/enhanced-opportunities/student-technology-certifications/programming")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://oertx.highered.texas.gov/groups/intro-to-java-python-programming-for-non-cs-majors/1385/information/")!)) {
+    Text("https://oertx.highered.texas.gov/groups/intro-to-java-python-programming-for-non-cs-majors/1385/information/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nccs.nasa.gov/nccs-users/user-events/python-classes")!)) {
+    Text("https://www.nccs.nasa.gov/nccs-users/user-events/python-classes")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.in.gov/dwd/files/industry-certifications/Certified-Professional-in-Python-Programming-I-PCPPI.pdf")!)) {
+    Text("https://www.in.gov/dwd/files/industry-certifications/Certified-Professional-in-Python-Programming-I-PCPPI.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://edx.netl.doe.gov/dataset/activity/workflow-python-programming")!)) {
+    Text("https://edx.netl.doe.gov/dataset/activity/workflow-python-programming")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.hsrd.research.va.gov/Cyberseminars/catalog-upcoming-session.cfm?UID=3583")!)) {
+    Text("https://www.hsrd.research.va.gov/Cyberseminars/catalog-upcoming-session.cfm?UID=3583")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://coastalscience.noaa.gov/tag/python-programming/")!)) {
+    Text("https://coastalscience.noaa.gov/tag/python-programming/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://theory.pppl.gov/news/invited/04072019Feibush.pdf")!)) {
+    Text("https://theory.pppl.gov/news/invited/04072019Feibush.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sfwmd.gov/our-work/python-program")!)) {
+    Text("https://www.sfwmd.gov/our-work/python-program")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://energy.sandia.gov/wp-content/gallery/uploads/PV_LIB_Python_final_SAND2014-18444C.pdf")!)) {
+    Text("https://energy.sandia.gov/wp-content/gallery/uploads/PV_LIB_Python_final_SAND2014-18444C.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://ed.sc.gov/instruction/career-and-technical-education/programs-and-courses/career-clusters/information-technology/information-technology-standards/advanced-computer-programming-materials-and-resources/")!)) {
+    Text("https://ed.sc.gov/instruction/career-and-technical-education/programs-and-courses/career-clusters/information-technology/information-technology-standards/advanced-computer-programming-materials-and-resources/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.santaclaraca.gov/Home/Components/Calendar/Event/86167/")!)) {
+    Text("https://www.santaclaraca.gov/Home/Components/Calendar/Event/86167/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://millenia.cars.aps.anl.gov/xraylarch/devel/index.html")!)) {
+    Text("https://millenia.cars.aps.anl.gov/xraylarch/devel/index.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nnlm.gov/training/class/becoming-snake-charmer-introduction-python")!)) {
+    Text("https://www.nnlm.gov/training/class/becoming-snake-charmer-introduction-python")
+}
+NavigationLink(destination: WebView(url: URL(string: "http://linux-mirrors.fnal.gov/linux/scientific/obsolete/302/i386/errata/SL/RPMS/repodata/repoview/python-docs-0-2.2.3-6.8.html")!)) {
+    Text("http://linux-mirrors.fnal.gov/linux/scientific/obsolete/302/i386/errata/SL/RPMS/repodata/repoview/python-docs-0-2.2.3-6.8.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://scinet.usda.gov/events/2023-12-04-Practicum-AI")!)) {
+    Text("https://scinet.usda.gov/events/2023-12-04-Practicum-AI")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://search.library.doc.gov/discovery/fulldisplay/alma991000376712904716/01USDOC_INST:01USDOC")!)) {
+    Text("https://search.library.doc.gov/discovery/fulldisplay/alma991000376712904716/01USDOC_INST:01USDOC")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.osti.gov/biblio/1339572")!)) {
+    Text("https://www.osti.gov/biblio/1339572")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mansfieldtexas.gov/calendar.aspx?EID=5074")!)) {
+    Text("https://www.mansfieldtexas.gov/calendar.aspx?EID=5074")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://pubs.usgs.gov/publication/70189371")!)) {
+    Text("https://pubs.usgs.gov/publication/70189371")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.azjobconnection.gov/etp/public/institution_programs/23627")!)) {
+    Text("https://www.azjobconnection.gov/etp/public/institution_programs/23627")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748764")!)) {
+    Text("https://www.nsf.gov/awardsearch/showAward?AWD_ID=1748764")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://parkways.seattle.gov/wp-content/uploads/sites/25/2018/07/Python-Class-Flyer-Fall-2018-FINAL.pdf")!)) {
+    Text("https://parkways.seattle.gov/wp-content/uploads/sites/25/2018/07/Python-Class-Flyer-Fall-2018-FINAL.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://registration.highlandsrec.ca.gov/public/class/595/group/2")!)) {
+    Text("https://registration.highlandsrec.ca.gov/public/class/595/group/2")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=248492")!)) {
+    Text("https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=248492")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://pages.nist.gov/2020-04-10-nist-python/")!)) {
+    Text("https://pages.nist.gov/2020-04-10-nist-python/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://catdir.loc.gov/catdir/toc/ecip0615/2006019559.html")!)) {
+    Text("https://catdir.loc.gov/catdir/toc/ecip0615/2006019559.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.fws.gov/course/intermediate-gis-applications-programming-arcgis-pro-python")!)) {
+    Text("https://www.fws.gov/course/intermediate-gis-applications-programming-arcgis-pro-python")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.commerce.gov/sites/default/files/media/files/2018/intro_to_python.pdf")!)) {
+    Text("https://www.commerce.gov/sites/default/files/media/files/2018/intro_to_python.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://cloud.gov/docs/deployment/frameworks/")!)) {
+    Text("https://cloud.gov/docs/deployment/frameworks/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://crd.lbl.gov/news-and-publications/news/2006/crd-s-pyglobus-tools-proving-popular/")!)) {
+    Text("https://crd.lbl.gov/news-and-publications/news/2006/crd-s-pyglobus-tools-proving-popular/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://ed.sc.gov/instruction/career-and-technical-education/programs-and-courses/career-clusters/information-technology/computer-programming-1-python/")!)) {
+    Text("https://ed.sc.gov/instruction/career-and-technical-education/programs-and-courses/career-clusters/information-technology/computer-programming-1-python/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://deerparktx.gov/Calendar.aspx?EID=5541")!)) {
+    Text("https://deerparktx.gov/Calendar.aspx?EID=5541")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.careerbridge.wa.gov/Detail_Program.aspx?program=7776")!)) {
+    Text("https://www.careerbridge.wa.gov/Detail_Program.aspx?program=7776")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://generalservices.baltimorecity.gov/business-process-improvement-office/python-city-government-meetup")!)) {
+    Text("https://generalservices.baltimorecity.gov/business-process-improvement-office/python-city-government-meetup")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://illinoisjoblink.illinois.gov/jobs/11679174")!)) {
+    Text("https://illinoisjoblink.illinois.gov/jobs/11679174")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://hpc.llnl.gov/software/development-environment-software/python")!)) {
+    Text("https://hpc.llnl.gov/software/development-environment-software/python")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.pnnl.gov/science/highlights/highlight.asp?id=1043")!)) {
+    Text("https://www.pnnl.gov/science/highlights/highlight.asp?id=1043")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.edutech.nd.gov/training/topics/913")!)) {
+    Text("https://www.edutech.nd.gov/training/topics/913")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.science.gov/topicpages/p/python+programming+language.html")!)) {
+    Text("https://www.science.gov/topicpages/p/python+programming+language.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.santaclaraca.gov/Home/Components/Calendar/Event/17318/")!)) {
+    Text("https://www.santaclaraca.gov/Home/Components/Calendar/Event/17318/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://forums.nrel.gov/t/how-to-use-map-with-python/1223")!)) {
+    Text("https://forums.nrel.gov/t/how-to-use-map-with-python/1223")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.fcc.gov/news-events/blog/2013/08/28/fcc-releases-software-development-kit-accessibility-clearinghouse")!)) {
+    Text("https://www.fcc.gov/news-events/blog/2013/08/28/fcc-releases-software-development-kit-accessibility-clearinghouse")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencebase.gov/catalog/item/51719edce4b0c560b705586a")!)) {
+    Text("https://www.sciencebase.gov/catalog/item/51719edce4b0c560b705586a")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.ntia.gov/sites/default/files/publications/python_software_foundation_-_2021.06.17_0.pdf")!)) {
+    Text("https://www.ntia.gov/sites/default/files/publications/python_software_foundation_-_2021.06.17_0.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://library.cedarparktexas.gov/Hoopla/15544769?searchId=129439&recordIndex=9&page=&referred=resultIndex")!)) {
+    Text("https://library.cedarparktexas.gov/Hoopla/15544769?searchId=129439&recordIndex=9&page=&referred=resultIndex")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://joblink.delaware.gov/etp/public/institution_programs/2862")!)) {
+    Text("https://joblink.delaware.gov/etp/public/institution_programs/2862")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.jacksonville.gov/departments/finance/procurement/equal-business-opportunity-contract-compliance/jacksonville-small-emerging-business/events/all-events/fscj-fintech-initiative-python-1-(1)")!)) {
+    Text("https://www.jacksonville.gov/departments/finance/procurement/equal-business-opportunity-contract-compliance/jacksonville-small-emerging-business/events/all-events/fscj-fintech-initiative-python-1-(1)")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.osti.gov/servlets/purl/1843562")!)) {
+    Text("https://www.osti.gov/servlets/purl/1843562")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sfwmd.gov/sites/default/files/documents/q_and_a_python_program.pdf")!)) {
+    Text("https://www.sfwmd.gov/sites/default/files/documents/q_and_a_python_program.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://par.nsf.gov/servlets/purl/10189054")!)) {
+    Text("https://par.nsf.gov/servlets/purl/10189054")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://search.library.doc.gov/discovery/fulldisplay/alma991000432968404716/01USDOC_INST:01USDOC")!)) {
+    Text("https://search.library.doc.gov/discovery/fulldisplay/alma991000432968404716/01USDOC_INST:01USDOC")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://mooseframework.inl.gov/python/sqa/python_sll.html")!)) {
+    Text("https://mooseframework.inl.gov/python/sqa/python_sll.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.mansfieldtexas.gov/Calendar.aspx?EID=5287")!)) {
+    Text("https://www.mansfieldtexas.gov/Calendar.aspx?EID=5287")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nnlm.gov/training/class-catalog/fundamentals-health-data-science")!)) {
+    Text("https://www.nnlm.gov/training/class-catalog/fundamentals-health-data-science")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://netlib.sandia.gov/tex/bib/python.pdf")!)) {
+    Text("https://netlib.sandia.gov/tex/bib/python.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://lod.nal.usda.gov/nalt/28433.rdf")!)) {
+    Text("https://lod.nal.usda.gov/nalt/28433.rdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.stlucieco.gov/government/advanced-components/custom-pages/custom-documents-images-calendar/-item-61132/-sortn-EDate/-toggle-next30days/-folder-34/-npage-2?sortn=EDate&toggle=next30days&folder=34")!)) {
+    Text("https://www.stlucieco.gov/government/advanced-components/custom-pages/custom-documents-images-calendar/-item-61132/-sortn-EDate/-toggle-next30days/-folder-34/-npage-2?sortn=EDate&toggle=next30days&folder=34")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://it.lbl.gov/it-training-october-to-november-2023/")!)) {
+    Text("https://it.lbl.gov/it-training-october-to-november-2023/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://pages.nist.gov/2016-05-23-nist/")!)) {
+    Text("https://pages.nist.gov/2016-05-23-nist/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.azjobconnection.gov/etp/public/institution_programs/23702")!)) {
+    Text("https://www.azjobconnection.gov/etp/public/institution_programs/23702")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1012L9O.txt")!)) {
+    Text("https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1012L9O.txt")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://indico.fnal.gov/event/17389/contributions/42854/attachments/26486/32856/target2018-coding_introduction.pdf")!)) {
+    Text("https://indico.fnal.gov/event/17389/contributions/42854/attachments/26486/32856/target2018-coding_introduction.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://generalservices.baltimorecity.gov/taxonomy/term/2795")!)) {
+    Text("https://generalservices.baltimorecity.gov/taxonomy/term/2795")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://catalog.eulesstx.gov/Record/71102?searchId=1631403&recordIndex=1&page=1&referred=resultIndex")!)) {
+    Text("https://catalog.eulesstx.gov/Record/71102?searchId=1631403&recordIndex=1&page=1&referred=resultIndex")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://w3.pppl.gov/~efeibush/python/PUcourse2014.pdf")!)) {
+    Text("https://w3.pppl.gov/~efeibush/python/PUcourse2014.pdf")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.kpl.gov/catalog/item/?i=ent://LYNDA/0/LYNDA:4314028")!)) {
+    Text("https://www.kpl.gov/catalog/item/?i=ent://LYNDA/0/LYNDA:4314028")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencebase.gov/catalog/item/5b2838c5e4b059207626071b")!)) {
+    Text("https://www.sciencebase.gov/catalog/item/5b2838c5e4b059207626071b")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://library.cedarparktexas.gov/Record/106743?searchId=99559&recordIndex=3&page=&referred=resultIndex")!)) {
+    Text("https://library.cedarparktexas.gov/Record/106743?searchId=99559&recordIndex=3&page=&referred=resultIndex")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://nlcblogs.nebraska.gov/nlcblog/2019/03/04/raspberry-pi-expected-discovery/")!)) {
+    Text("https://nlcblogs.nebraska.gov/nlcblog/2019/03/04/raspberry-pi-expected-discovery/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.anl.gov/article/middle-school-girls-on-a-coding-mission")!)) {
+    Text("https://www.anl.gov/article/middle-school-girls-on-a-coding-mission")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.pnnl.gov/computing/highlights/highlight.asp?id=1043")!)) {
+    Text("https://www.pnnl.gov/computing/highlights/highlight.asp?id=1043")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://parkways.seattle.gov/2018/07/17/yesler-cc-rectech-python-intro-programming-class-ages-15-18/")!)) {
+    Text("https://parkways.seattle.gov/2018/07/17/yesler-cc-rectech-python-intro-programming-class-ages-15-18/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.usgs.gov/publications/programming-phreeqc-calculations-c-and-python-comparative-study")!)) {
+    Text("https://www.usgs.gov/publications/programming-phreeqc-calculations-c-and-python-comparative-study")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://sam.nrel.gov/forum/forum-open-source/3267-running-sam-lk-script-from-python.html")!)) {
+    Text("https://sam.nrel.gov/forum/forum-open-source/3267-running-sam-lk-script-from-python.html")
+}
+NavigationLink(destination: WebView(url: URL(string: "http://nlcblogs.nebraska.gov/nlcblog/author/asweet/page/4/")!)) {
+    Text("http://nlcblogs.nebraska.gov/nlcblog/author/asweet/page/4/")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm")!)) {
+    Text("https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.weather.gov/documentation/services-web-api")!)) {
+    Text("https://www.weather.gov/documentation/services-web-api")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://go.usa.gov/xGfSq")!)) {
+    Text("https://go.usa.gov/xGfSq")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.miramarfl.gov/1809/Code-Ninjas")!)) {
+    Text("https://www.miramarfl.gov/1809/Code-Ninjas")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nsa.gov/ghidra")!)) {
+    Text("https://www.nsa.gov/ghidra")
+}
+NavigationLink(destination: WebView(url: URL(string: "https://developer.uscis.gov/")!)) {
+    Text("https://developer.uscis.gov/")
+}

@@ -1,0 +1,30 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.ncbi.nlm.nih.gov/books/NBK560656/")!)) {
+    Text("https://www.ncbi.nlm.nih.gov/books/NBK560656/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencedirect.com/science/article/pii/S0163725821002084")!)) {
+    Text("https://www.sciencedirect.com/science/article/pii/S0163725821002084")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.atsjournals.org/doi/full/10.1164/rccm.202201-0034ED")!)) {
+    Text("https://www.atsjournals.org/doi/full/10.1164/rccm.202201-0034ED")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.atsjournals.org/doi/pdf/10.1164/rccm.202201-0034ED")!)) {
+    Text("https://www.atsjournals.org/doi/pdf/10.1164/rccm.202201-0034ED")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.lung.org/quit-smoking/e-cigarettes-vaping/impact-of-e-cigarettes-on-lung")!)) {
+    Text("https://www.lung.org/quit-smoking/e-cigarettes-vaping/impact-of-e-cigarettes-on-lung")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.nejm.org/doi/full/10.1056/NEJMe1912032")!)) {
+    Text("https://www.nejm.org/doi/full/10.1056/NEJMe1912032")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.sciencedirect.com/science/article/pii/S2468867321000729")!)) {
+    Text("https://www.sciencedirect.com/science/article/pii/S2468867321000729")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://jeccm.amegroups.org/article/view/3660/html")!)) {
+    Text("https://jeccm.amegroups.org/article/view/3660/html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://jeccm.amegroups.org/article/view/3660/html")!)) {
+    Text("https://jeccm.amegroups.org/article/view/3660/html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.annualreviews.org/doi/abs/10.1146/annurev-physiol-061121-040014")!)) {
+    Text("https://www.annualreviews.org/doi/abs/10.1146/annurev-physiol-061121-040014")
+}}

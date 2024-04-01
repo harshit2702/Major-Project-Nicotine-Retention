@@ -1,0 +1,33 @@
+NavigationLink(destination: WebView(url: URL(string: "https://www.cdc.gov/tobacco/basic_information/e-cigarettes/index.htm")!)) {
+    Text("https://www.cdc.gov/tobacco/basic_information/e-cigarettes/index.htm")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.cdc.gov/tobacco/basic_information/e-cigarettes/about-e-cigarettes.html")!)) {
+    Text("https://www.cdc.gov/tobacco/basic_information/e-cigarettes/about-e-cigarettes.html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.fda.gov/tobacco-products/products-ingredients-components/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends")!)) {
+    Text("https://www.fda.gov/tobacco-products/products-ingredients-components/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://nida.nih.gov/publications/drugfacts/vaping-devices-electronic-cigarettes")!)) {
+    Text("https://nida.nih.gov/publications/drugfacts/vaping-devices-electronic-cigarettes")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://e-cigarettes.surgeongeneral.gov/")!)) {
+    Text("https://e-cigarettes.surgeongeneral.gov/")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/electronic-cigarette")!)) {
+    Text("https://www.cancer.gov/publications/dictionaries/cancer-terms/def/electronic-cigarette")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://e-cigarettes.surgeongeneral.gov/knowtherisks.html")!)) {
+    Text("https://e-cigarettes.surgeongeneral.gov/knowtherisks.html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/introduction")!)) {
+    Text("https://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/introduction")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://medlineplus.gov/ecigarettes.html")!)) {
+    Text("https://medlineplus.gov/ecigarettes.html")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://smokefree.gov/quit-smoking/ecigs-menthol-dip/ecigs")!)) {
+    Text("https://smokefree.gov/quit-smoking/ecigs-menthol-dip/ecigs")
+}}
+NavigationLink(destination: WebView(url: URL(string: "https://dph.illinois.gov/topics-services/prevention-wellness/oral-health/fast-facts-oral-health/e-cigarettes-and-vaping.html")!)) {
+    Text("https://dph.illinois.gov/topics-services/prevention-wellness/oral-health/fast-facts-oral-health/e-cigarettes-and-vaping.html")
+}}
